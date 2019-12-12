@@ -5,7 +5,7 @@
 	Silvestre Nuernberg, Samantha
 	Yilmaz, Ferah
 
-	CS A250 - Fall 2019
+	CS A250 - December 11, 2019
 
 	Project 1
 *************************/
